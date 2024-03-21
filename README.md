@@ -129,7 +129,7 @@ WHERE c.dept_id = d.deptId
 CREATE (c)<-[:OWNS]-(d)
 ```
 
-## 3. TẠO CONSTRAINT, XEM, XÓA
+## 3. TẠO, XEM, XÓA CONSTRAINT
 
 ### Tạo constraint
 
