@@ -47,7 +47,7 @@
 | EE102     | 33         |
 | MA301     | 22         |
 
-![alt text](cheat_sheet.png 'Logo Title Text 1')
+![alt text](cheatsheet.png 'Logo Title Text 1')
 
 # NEO4J CHEAT SHEET
 
