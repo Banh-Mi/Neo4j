@@ -47,7 +47,8 @@
 | EE102     | 33         |
 | MA301     | 22         |
 
-![alt text](cheatsheet.png 'Logo Title Text 1')
+## Relationship 
+![Relationship](cheatsheet.png 'Logo Title Text 1')
 
 # NEO4J CHEAT SHEET
 
